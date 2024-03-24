@@ -1,0 +1,10 @@
+.text-editor-toolbar {
+    margin-bottom: 10px;
+  }
+  
+  .text-editor-content {
+    border: 1px solid #ccc;
+    min-height: 200px;
+    padding: 10px;
+  }
+  
